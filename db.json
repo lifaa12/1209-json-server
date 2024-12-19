@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "asd@gmail.com",
+      "password": "$2a$10$m9rDmI5aovCyuWjPbuABIeGk0OgO1vAAcaEgF3511748LiQ3hlxsS",
+      "id": 1
+    },
+    {
+      "headers": {
+        "email": "vbbb@gmail.com",
+        "password": "b12dsd"
+      },
+      "id": 2
+    },
+    {
+      "email": "vbgfbb@gmail.com",
+      "password": "b12dsd",
+      "id": 3
+    },
+    {
+      "email": "dfdfdgsd@gmail.com",
+      "password": "bfdsgssdfd",
+      "id": 4
+    },
+    {
+      "email": "vbdffgfbb@gmail.com",
+      "password": "$2a$10$NJNBgiRqQ4xD7yifONleW.EmkNc4oVwJK2u9rCcMsPHxjXmu0/19a",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "content": "今天要刷牙",
+      "id": 1
+    },
+    {
+      "content": "今天要洗臉",
+      "userId": 5,
+      "id": 2
+    }
+  ]
+}
